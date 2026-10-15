@@ -1,0 +1,4 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M400 304L448 352L400 400M400 112L448 160L400 208M64 352H192L252 260" stroke="white" stroke-width="32" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M64 160H192L320 352H416M416 160H320L288 208" stroke="white" stroke-width="32" stroke-miterlimit="10" stroke-linecap="square"/>
+</svg>
